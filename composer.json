@@ -1,0 +1,7 @@
+{
+    "name": "fabrizzio/ansible-symfony2",
+    "description": "Symfony2 Ansible deployment playbook",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
